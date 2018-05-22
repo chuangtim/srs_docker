@@ -8,4 +8,4 @@ else
     ./objs/srs "$@"
 fi
 
-tail -f objs/srs.log
+# tail -f objs/srs.log
